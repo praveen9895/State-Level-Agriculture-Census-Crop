@@ -43,12 +43,12 @@ This project analyzes state-level agricultural census data to:
 
 **Analysis Performed**
 
-**Descriptive — **
+**Descriptive**
+
 total areas by state and crop; top states by cultivated area (Uttar Pradesh, Rajasthan, etc.). 
 
 
-
-**Diagnostic **
+**Diagnostic**
 
 identify crops/states with increasing/decreasing area; analyze irrigated vs. unirrigated area. 
 
